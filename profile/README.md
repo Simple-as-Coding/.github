@@ -1,4 +1,18 @@
-## Hi there 👋
+# 👋 Welcome to Simple as Coding
+
+#### :people_holding_hands: Our group has been formed for learning purposes.
+
+#### 🧑‍🎓 Depends on our roles, we aim to learn languages & frameworks / libraries such as:
+##### Backend
+- Java
+- Spring-boot
+##### Frontend
+- Js
+- Html
+- Css
+- React
+
+##### 💻 We are focused on Full-Stack applications
 
 <!--
 
